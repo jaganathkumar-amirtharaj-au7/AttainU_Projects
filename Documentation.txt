@@ -1,0 +1,11 @@
+Learnings:-
+    --> complete understaing of how Json format works,how to retive &recive data from Json,
+    --> understood how parent and child branches work in JSON, and accessing and navigating from parent to child and retive data.
+    --> complete understaing of how the coincapmarket functions, with help coincapmarket api docs was able to create code to retrive bitcoin price data from coincapmarket.
+    --> Spent a large amount of time in understaing IFTTT works, Creation of applets and how to access applets, post data to IFTTT using http services.
+    --> Understood how to create a connection between python script and IFTTT application.
+Project Understanding:-
+    --> Researched a lot, studies through codes of developers, video reference, helped a lot in project.
+    --> from this project, was able to get indepth knowledge of how few functions can be implemented in the real world applications,
+    --> was not able to get clear picture and understaing of few concepts, now was able spend quality time in getting indepth knowledge of the concepts and how it works,
+   
